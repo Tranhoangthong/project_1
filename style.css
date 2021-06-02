@@ -1,0 +1,39 @@
+body , h3, h5, p{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	color:black;
+
+}
+.carousel-item{
+	height: 500px;
+	width: 100%;
+}
+.icon1{
+	float: left;
+}
+.image{
+
+height: 500px;
+}
+.process .card001{
+	float: left;	
+
+}
+
+.icon{
+	margin: 3px 3px 3px 3px;
+}
+.info-1{
+	margin: 3px 3px 3px 3px;
+}
+.info-2{
+	margin: 3px 3px 3px 3px;
+}
+.card001{
+	margin-top: 8px;
+	margin-bottom: 6px;
+
+}
+
+	
